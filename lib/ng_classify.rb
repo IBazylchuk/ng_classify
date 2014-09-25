@@ -1,5 +1,6 @@
 require 'ng_classify/version'
 require 'rails'
+require 'commonjs'
 
 module NgClassify
   mattr_accessor :appName
